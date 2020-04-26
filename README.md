@@ -15,5 +15,7 @@ By conducting experiments the reaction time was defined from the extracted featu
 After some trial and error the size of the target and the reaction time was selected and appropriate visualizations were performed for testing.
 
 ### Hypothesis Testing
-The hypotheis was tested using a P test and the hypotheis was found to be true.
+The hypotheis was tested using a P test and the hypothesis was found to be true.
+## Conclusion
+The size of a graphic on the screen highly effects the reaction of a user.This information can be used in Human Computer Interaction to design better and efficient User interfaces.
 
